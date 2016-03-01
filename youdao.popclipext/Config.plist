@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>youdao.applescript</string>
+			<key>Image File</key>
+			<string>bowler.png</string>
+			<key>Title</key>
+			<string>有道词典</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Bundle Identifier</key>
+			<string>com.youdao.YoudaoDict</string>
+			<key>Check Installed</key>
+			<true/>
+			<key>Link</key>
+			<string>http://youdao.com/</string>
+			<key>Name</key>
+			<string>有道词典</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Activate Youdao with the selected text. (Requires installed Youdao.)</string>
+	<key>Extension Identifier</key>
+	<string>net.yuanmomo.popclip.extension.youdao</string>
+	<key>Extension Name</key>
+	<string>Youdao</string>
+</dict>
+</plist>
